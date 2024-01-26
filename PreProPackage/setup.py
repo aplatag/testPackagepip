@@ -11,5 +11,5 @@ setup (
     packages=find_packages(),
     install_requires = ['math','numpy'],
 
-    url='https://github.com/aplatag/testpackegepy'
+    url='https://github.com/aplatag/testPackagepip'
 )
